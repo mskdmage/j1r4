@@ -1,0 +1,26 @@
+{
+  "last_item_id": 4,
+  "epics": {
+    "1": {
+      "name": "New Epic name",
+      "description": "New Epic description",
+      "status": "InProgress",
+      "stories": [
+        3,
+        4
+      ]
+    }
+  },
+  "stories": {
+    "3": {
+      "name": "Newer Story name",
+      "description": "Newer Story description",
+      "status": "Closed"
+    },
+    "4": {
+      "name": "Even Newer Story name",
+      "description": "Even Newer Story Description",
+      "status": "InProgress"
+    }
+  }
+}
